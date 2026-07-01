@@ -24,3 +24,5 @@ Follow the steps below, and you'll have your calculator running smooth as butter
 
 ---
 *Created by Samiddha Ganguly | Currently leveling up in C 🐣➡️🦅*
+
+"Note: This is a beginner project created for learning purposes. Feedback and suggestions are always welcome! 🚀"
